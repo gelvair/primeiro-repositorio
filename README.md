@@ -1,2 +1,4 @@
 # primeiro-repositorio
- olá, mundo
+ OLÁ, MUNDO
+
+ primeiro repositório do curso em video
